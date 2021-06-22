@@ -40,7 +40,8 @@ Here are screenshots of what the output looks like when I ran the scripts on my 
 
 2015 Stock Data
 
-<img width="841" alt="Multi Year Stock - 2015" src="https://user-images.githubusercontent.com/81407869/122868719-30502c80-d2e0-11eb-8629-aa0c474b7ec3.png">
+![Multi Year Stock - 2015](https://user-images.githubusercontent.com/81407869/122869772-95f0e880-d2e1-11eb-8867-09c1a1bf5d1a.png)
+
 
 
 2016 Stock Data
