@@ -34,12 +34,15 @@ You can find the script submitted as vbs script file and its called VBA Script o
 Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in the Images of Multi Year Stock folder of this repository.
 
 2014 Stock Data
+
 ![Multi Year Stock - 2014](https://user-images.githubusercontent.com/81407869/122868668-1d3d5c80-d2e0-11eb-9394-e255a09795d3.png)
 
 
 2015 Stock Data
+
 <img width="841" alt="Multi Year Stock - 2015" src="https://user-images.githubusercontent.com/81407869/122868719-30502c80-d2e0-11eb-8629-aa0c474b7ec3.png">
 
 
 2016 Stock Data
+
 ![Multi Year Stock - 2016](https://user-images.githubusercontent.com/81407869/122868736-380fd100-d2e0-11eb-8b75-5f38671cbd0f.png)
