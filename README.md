@@ -1,13 +1,13 @@
 
-VBA Challenge
+## VBA Challenge
 
 A VBA script used to analyze real stock market data in a Microsoft Excel workbook.
 
-Background
+## Background
 
-For this project, I created a VBA (Visual Basic) script which will be running only once to analyze the stock market data. The data is inside a Microsoft Excel workbook and includes stock data for three years (2014, 2015, and 2016). Each year is a different tab/sheet inside the workbook. 
+For this project, I created a Visual Basic script which will be running only once to analyze the stock market data. The data of stock market provided is in a Microsoft Excel workbook and includes stock data for three years (2014, 2015, and 2016). Each year is a different tab/sheet inside the workbook. 
 
-I created a script that will loop through all the stocks for three years of stock data that are in three different worksheets and will output 
+I created a script that will loop through all the stocks for three years of stock data that are in three different worksheets and will output the below ones for each worksheet 
 
   * The ticker symbol.
 
@@ -21,16 +21,16 @@ I created a script that will loop through all the stocks for three years of stoc
 
 * The results are shown and attached as images below
 
-For the Bonus Challenge 
+## For the Bonus Challenge 
 
-The script will return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" and also return the associated ticker symbol for the same in a separate table within each year sheet.
+The script will return the values of stock data with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" and also return the associated ticker symbol for the same in a separate table within each year worksheet.
 
-Testing
+## Testing
 
 I ran this script on both the testing Excel workbook (alphabetical_testing.xlsx) and on the final multiple year stock workbook (multiple_year_stock_data.xlsx). Script worked just fine for both and returns the output within few minutes.  
 
 
-About the Script
+## VBS Script
 
 You can find the script submitted as vbs script file and its called VBA Script of stockdata
 
