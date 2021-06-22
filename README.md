@@ -1,5 +1,6 @@
 
 VBA Challenge
+
 A VBA script used to analyze real stock market data in a Microsoft Excel workbook.
 
 Background
